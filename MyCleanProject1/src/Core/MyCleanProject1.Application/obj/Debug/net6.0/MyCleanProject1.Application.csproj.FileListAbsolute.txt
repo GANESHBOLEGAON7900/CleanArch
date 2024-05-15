@@ -1,0 +1,15 @@
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\bin\Debug\net6.0\MyCleanProject1.Application.deps.json
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\bin\Debug\net6.0\MyCleanProject1.Application.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\bin\Debug\net6.0\MyCleanProject1.Application.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\bin\Debug\net6.0\MyCleanProject1.Domain.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\bin\Debug\net6.0\MyCleanProject1.Domain.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.csproj.AssemblyReference.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.AssemblyInfoInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.AssemblyInfo.cs
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.csproj.CoreCompileInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanP.51ED7002.Up2Date
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\refint\MyCleanProject1.Application.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\MyCleanProject1.Application.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Application\obj\Debug\net6.0\ref\MyCleanProject1.Application.dll

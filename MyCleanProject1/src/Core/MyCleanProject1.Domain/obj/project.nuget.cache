@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9p1UaaF1MP1H8pNptjSGHuRQF3OhK3hwKk5lDne8Hd9FK87sYISU+eEWI2eOl7ULGHrJzueIbQhCt0Yi9pZfUg==",
+  "success": true,
+  "projectFilePath": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Core\\MyCleanProject1.Domain\\MyCleanProject1.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

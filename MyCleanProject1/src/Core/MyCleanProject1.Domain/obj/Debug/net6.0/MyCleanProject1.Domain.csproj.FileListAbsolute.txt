@@ -1,0 +1,12 @@
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\bin\Debug\net6.0\MyCleanProject1.Domain.deps.json
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\bin\Debug\net6.0\MyCleanProject1.Domain.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\bin\Debug\net6.0\MyCleanProject1.Domain.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.csproj.AssemblyReference.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.AssemblyInfoInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.AssemblyInfo.cs
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.csproj.CoreCompileInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\refint\MyCleanProject1.Domain.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\MyCleanProject1.Domain.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Core\MyCleanProject1.Domain\obj\Debug\net6.0\ref\MyCleanProject1.Domain.dll

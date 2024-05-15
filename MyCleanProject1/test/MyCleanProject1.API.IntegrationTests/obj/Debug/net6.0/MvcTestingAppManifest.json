@@ -1,0 +1,8 @@
+{
+  "MyCleanProject1.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\API\\MyCleanProject1.Api",
+  "MyCleanProject1.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Core\\MyCleanProject1.Application",
+  "MyCleanProject1.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Core\\MyCleanProject1.Domain",
+  "MyCleanProject1.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Infrastructure\\MyCleanProject1.Identity",
+  "MyCleanProject1.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Infrastructure\\MyCleanProject1.Infrastructure",
+  "MyCleanProject1.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\NeoSOFT\\slnMyCleanProject1\\MyCleanProject1\\src\\Infrastructure\\MyCleanProject1.Persistence"
+}

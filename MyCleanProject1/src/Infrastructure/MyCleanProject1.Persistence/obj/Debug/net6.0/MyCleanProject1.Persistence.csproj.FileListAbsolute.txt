@@ -1,0 +1,17 @@
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Persistence.deps.json
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Persistence.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Persistence.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Application.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Domain.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Application.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\bin\Debug\net6.0\MyCleanProject1.Domain.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.csproj.AssemblyReference.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.AssemblyInfoInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.AssemblyInfo.cs
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.csproj.CoreCompileInputs.cache
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanP.E204A6F7.Up2Date
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\refint\MyCleanProject1.Persistence.dll
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\MyCleanProject1.Persistence.pdb
+C:\NeoSOFT\slnMyCleanProject1\MyCleanProject1\src\Infrastructure\MyCleanProject1.Persistence\obj\Debug\net6.0\ref\MyCleanProject1.Persistence.dll
